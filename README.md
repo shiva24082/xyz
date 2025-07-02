@@ -1,11 +1,8 @@
 # AWS Serverless Login System
 
 A secure login system with:
-- Frontend: TypeScript/Vite
+- Frontend: TypeScript
 - Backend: AWS SAM (Lambda + API Gateway + DynamoDB)
-
-![Login Screen](screenshots/login.png) 
-*(Add your screenshot after uploading)*
 
 ## Features
 - User registration/login with email/password
@@ -24,5 +21,5 @@ A secure login system with:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/xyz.git
+git clone https://github.com/shiva24082/xyz.git
 cd login-system
